@@ -159,3 +159,5 @@ Example:
 
 Want to contribute? Awesome! You can find information about contributing to
 this project in the [CONTRIBUTING.md](/.github/CONTRIBUTING.md)
+- name: Docker Setup Buildx
+  uses: docker/setup-buildx-action@v4.2.0
